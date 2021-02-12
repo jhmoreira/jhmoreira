@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhmoreira" alt="jhmoreira" /></a> </p>
 
-- 🌱 I’m currently learning **React, JavaScript e PHP**
+- 🌱 I’m currently learning **React, JavaScript and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhmoreira/](https://github.com/jhmoreira/)
 
-- 💬 Ask me about **JAVA e C**
+- 💬 Ask me about **JAVA and C**
 
 - 📫 How to reach me **joaomoreirati98@gmail.com**
 
