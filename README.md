@@ -64,6 +64,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 />
 <br>
 <br>
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhmoreira&show_icons=true&locale=en&layout=compact" alt="jhmoreira" />
-
-&nbsp;<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jhmoreira&show_icons=true&locale=en" alt="jhmoreira" /></p>
+<div align="center">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhmoreira&show_icons=true&locale=en&layout=compact" alt="jhmoreira" />
+&nbsp;<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=jhmoreira&show_icons=true&locale=en" alt="jhmoreira" />
+</div>
