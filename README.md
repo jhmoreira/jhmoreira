@@ -1,15 +1,17 @@
-<h1 align="center">Olá 👋, Eu sou o João Moreira</h1>
+# 👨🏽‍💻 João Moreira
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhmoreira&label=Profile%20views&color=0e75b6&style=flat" alt="jhmoreira" /> </p>
+**`Desenvolvedor Back-End`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhmoreira" alt="jhmoreira" /></a> </p>
+Desenvolvedor com mais de 4 anos de experiência em back-end, especializado em Magento 2. Tenho grande afinidade com tecnologia, resolução de problemas e colaboração em ambientes ágeis.
 
-- 🌱Atualmente, estou aprimorando minhas habilidades em  **Laravel, Magento 2, PHP e Segurança da Informação**
+Atuei como desenvolvedor responsável por criar e manter módulos Magento, aplicar correções de bugs e implementar melhorias técnicas, além de definir requisitos junto ao time de produto.
 
-- 👨‍💻 Meus projetos estão disponiveis em: [https://github.com/jhmoreira/](https://github.com/jhmoreira/)
+Também tive a oportunidade de atuar como Scrum Master, facilitando cerimônias, apoiando squads e contribuindo diretamente para entregas mais eficientes e organizadas.
 
+Além disso tenho mais de 2 anos de experiência com desenvolvimento de projetos de programação e robótica educacional, criando módulos e atividades para diferentes faixas etárias, utilizando LEGO, Arduino e Micro:bit
 
-- 📫 Entre em contato através do e-mail = **joaomoreirati98@gmail.com**
+Graduado em Sistemas de Informação pela Universidade Salvador.
+Pós-graduado em Segurança da Informação pela Universidade Salvador
 
 <h3 align="left">Meu linkedin:</h3>
 <p align="left">
@@ -17,7 +19,50 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
+<img
+            align = "left"
+            alt = "Magento"
+            title = "Magento"
+            width = "30px"
+            style = "padding-right: 10px;"
 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-plain-wordmark.svg" />
+            <img 
+            
+            align = "left"
+            alt = "PHP"
+            title = "PHP"
+            width = "30px"
+            style = "padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+            <img 
+            align = "left"
+            alt = "NodeJS"
+            title = "NodeJS"
+            width = "30px"
+            style = "padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+            <img 
+            align = "left"
+            alt = "GitHub"
+            title = "GitHub"
+            width = "30px"
+            style = "padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+            <img
+            align = "left"
+            alt = "JavaScript"
+            title = "JavaScript"
+            width = "30px"
+            style = "padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img 
+            align = "left"
+            alt = "MySql"
+            title = "MySql"
+            width = "30px"
+            style = "padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhmoreira&show_icons=true&locale=en&layout=compact" alt="jhmoreira" /></p>
 
