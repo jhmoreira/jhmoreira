@@ -23,42 +23,42 @@ Pós-graduado em Segurança da Informação pela Universidade Salvador
 align = "left"
 alt = "Magento"
 title = "Magento"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-plain-wordmark.svg" />
 <img           
 align = "left"
 alt = "PHP"
 title = "PHP"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img 
 align = "left"
 alt = "NodeJS"
 title = "NodeJS"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img 
 align = "left"
 alt = "GitHub"
 title = "GitHub"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img
 align = "left"
 alt = "JavaScript"
 title = "JavaScript"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img 
 align = "left"
 alt = "MySql"
 title = "MySql"
-width = "30px"
+width = "50px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
