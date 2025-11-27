@@ -62,7 +62,8 @@ width = "30px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhmoreira&show_icons=true&locale=en&layout=compact" alt="jhmoreira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhmoreira&show_icons=true&locale=en" alt="jhmoreira" /></p>
