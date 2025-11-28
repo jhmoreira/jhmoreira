@@ -5,6 +5,7 @@
 Sou desenvolvedor backend com mais de 4 anos de experiência, especializado em PHP, Magento 2, APIs, desenvolvimento de módulos, integrações de sistemas e métodos de pagamento, melhorias de perfomance de ambientes de e-commerce
 
 Graduado em Sistemas de Informação pela Universidade Salvador.
+<br>
 Pós-graduado em Segurança da Informação pela Universidade Salvador
 
 <h3 align="left">Meu linkedin:</h3>
