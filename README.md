@@ -2,13 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Desenvolvedor com mais de 4 anos de experiência em back-end, especializado em Magento 2. Tenho grande afinidade com tecnologia, resolução de problemas e colaboração em ambientes ágeis.
-
-Atuei como desenvolvedor responsável por criar e manter módulos Magento, aplicar correções de bugs e implementar melhorias técnicas, além de definir requisitos junto ao time de produto.
-
-Também tive a oportunidade de atuar como Scrum Master, facilitando cerimônias, apoiando squads e contribuindo diretamente para entregas mais eficientes e organizadas.
-
-Além disso tenho mais de 2 anos de experiência com desenvolvimento de projetos de programação e robótica educacional, criando módulos e atividades para diferentes faixas etárias, utilizando LEGO, Arduino e Micro:bit
+Sou desenvolvedor backend com mais de 4 anos de experiência, especializado em PHP, Magento 2, APIs, desenvolvimento de módulos, integrações de sistemas e métodos de pagamento, melhorias de perfomance de ambientes de e-commerce
 
 Graduado em Sistemas de Informação pela Universidade Salvador.
 Pós-graduado em Segurança da Informação pela Universidade Salvador
