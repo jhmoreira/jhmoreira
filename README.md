@@ -1,8 +1,8 @@
 # 👨🏽‍💻 João Moreira
 
-**`Desenvolvedor Back-End`**
+**Desenvolvedor Back-End | PHP | Magento 2**
 
-Sou desenvolvedor backend com mais de 4 anos de experiência, especializado em PHP, Magento 2, APIs, desenvolvimento de módulos, integrações de sistemas e métodos de pagamento, melhorias de perfomance de ambientes de e-commerce
+Desenvolvedor backend com mais de 4 anos de experiência, especializado em PHP, Magento 2, APIs, desenvolvimento de módulos, integrações de sistemas e métodos de pagamento, melhorias de perfomance de ambientes de e-commerce
 
 Graduado em Sistemas de Informação pela Universidade Salvador.
 <br>
